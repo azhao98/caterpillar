@@ -1,2 +1,1 @@
-# caterpillar
 Caterpillar Word Game
